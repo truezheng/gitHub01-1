@@ -9,6 +9,7 @@ public class GitHub01Test {
         System.out.println("I love Java");
         System.out.println("I love Java");
         System.out.println("1");
+        System.out.println("2");
     }
 
 }
